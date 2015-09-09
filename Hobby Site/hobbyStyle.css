@@ -1,0 +1,143 @@
+.header {
+   background-color: #ccc;
+   font-family: 'Iceland', cursive;
+   margin-top: 0;
+   text-align: center;
+}
+
+.header h1 {
+   font-size: 80px;
+   margin-bottom: 10px;
+}
+
+.header p {
+   font-size: 40px;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+body{
+   margin-top: 0;
+   max-width: 1000px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.nav {
+   background-color: #000;
+}
+
+.nav ul {
+   margin-top: 0;
+   padding: 5px;
+}
+
+.nav li {
+   display: inline;
+   font-family: 'Iceland', cursive;
+   color: #ffffff;
+   font-size: 25px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.nav a {
+   text-decoration: none;
+}
+
+.nav li:hover {
+   color: #000;
+   background-color: #ccc;
+   border-radius: 4px;
+}
+
+.nav a:hover {
+   background-color: #ccc;   
+}
+
+.volleyball {
+   font-family: 'Iceland', cursive;
+   color: #000;
+}
+
+.volleyball h3 {
+   text-align: center;
+   font-size: 40px;
+}
+
+.volleyball p {
+   font-size: 25px;
+}
+
+.image {
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.footer {
+   background-color: #ccc;
+   font-family: 'Iceland', cursive;
+   font-size: 20px;
+   text-align: center;
+}
+
+.footer p {
+   padding: 15px;
+}
+
+.table {
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+table, th, td {
+   border: 2px solid #000;
+   border-collapse: collapse;
+}
+
+ th {
+   font-size: 20px;
+   padding: 5px;
+}
+
+td {
+   font-size: 15px;
+   padding: 5px;
+}
+
+.video {
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
